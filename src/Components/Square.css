@@ -1,0 +1,22 @@
+.Square_top{
+    background-color: rgb(43, 41, 40);
+    width: 550px;
+    height: 250px;
+    margin:  auto;
+    margin-top: 5vh;
+}
+.Square_Bottom{
+    background-color: rgb(78, 77, 76);
+    width: 550px;
+    height: 250px;
+    margin: auto;
+}
+.Square_absol{
+    background-color: rgb(78, 77, 76);
+    width: 550px;
+    height: 250px;
+    /* position: absolute;
+    top: 348px;
+    right: 61.5vh;
+    margin: auto; */
+}
